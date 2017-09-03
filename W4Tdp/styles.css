@@ -24,17 +24,3 @@ img {
   border-right: 1px solid black;
   border-bottom: 1px solid black;
 }
-
-#block_one {
-  display: flex;
-  flex-direction: row;
-  margin-top: 50px;
-  justify-content: space-between;
-}
-
-#block_two {
-  display: flex;
-  flex-direction: row;
-  margin-top: 50px;
-  justify-content: space-between;
-  }
