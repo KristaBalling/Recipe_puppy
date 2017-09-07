@@ -1,0 +1,46 @@
+form {
+  display: block;
+  height: 50px;
+  width: 400px;
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-left: 150px;
+}
+
+#container {
+  border-top: 1px solid black;
+  margin-top: 50px;
+  margin-left: 150px;
+  margin-right: 150px;
+  height:auto;
+  padding-top: 50px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  /*width: 20%;*/
+
+}
+
+#container > div {
+  /*display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;*/
+  width: 25%;
+}
+
+img {
+  display:block;
+  height:250px;
+  width:250px;
+  border: 1px solid black;
+
+}
+
+
+input {
+  margin-left: 150px;
+  margin-top: 100px;
+  margin-bottom: 30px;
+  height: 30px;
+  width: 200px;
+}
